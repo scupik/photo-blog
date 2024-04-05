@@ -1,0 +1,55 @@
+/* header */
+.header {
+}
+.header__nav {
+}
+.header__nav-list {
+}
+.header__nav-item {
+    color: #7D7D7D;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: normal;
+}
+/* hero */
+.hero {
+}
+.section {
+}
+.hero__list {
+}
+.hero__item {
+}
+.hero__img {
+    width: 420px;
+height: 280px;
+}
+.hero__text-top {
+    color: #B4AD9E;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+line-height: normal;
+}
+.hero__subtitle {
+    color: #626262;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+line-height: normal;
+}
+.hero__text {
+    color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: normal;
+}
+.hero__button {
+    color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: normal;
+}
